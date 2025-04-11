@@ -103,7 +103,6 @@ body {
     display: flex;
     pointer-events: none;
     z-index: 0;
-    opacity: 0.15;
   }
   
   .footer-image {
@@ -111,7 +110,6 @@ body {
     max-height: 150px;
     object-fit: contain;
     user-select: none;
-    filter: grayscale(100%);
     margin: 0 20px 20px 0;
   }
   
